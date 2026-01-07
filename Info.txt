@@ -1,0 +1,6 @@
+Custom Smart Pointer System with Cycle Handling
+
+Custom C++ smart pointer system (SharedPtr + WeakPtr) with counted references
+and support for cycles via weak locking. A minimal implementation that
+demonstrates correct resource management, ownership, and hierarchical structures
+without memory leaks.
